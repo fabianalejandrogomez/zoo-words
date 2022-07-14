@@ -1,2 +1,8 @@
-prueba-01
-prueba-02
+Stem-and-Leaf
+Q-Q (quantile-quantile)
+brushing-and-linking
+Choropleth Maps
+Adjacency Diagrams
+Enclosure Diagrams
+Arc Diagrams
+Reingold-Tilford algorithm
